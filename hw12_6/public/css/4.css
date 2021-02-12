@@ -1,0 +1,32 @@
+div {
+    width: 750px;
+    height: 400px;
+	background-color: green;
+	position:relative;
+	border: 1px solid black;
+	overflow: hidden;
+}
+.medium {
+    width: 60%;
+    height: 70%;
+ 	top: 10%;
+	left: 10%;
+	bottom: 20%;
+	position:fix;
+	border: 1px solid black;
+	overflow: hidden;
+
+}
+.small {
+    width: 60%;
+    height: 70%;
+	top: 10%;
+	left: 10%;
+	position:fix;
+	border: 1px solid black;
+	overflow: hidden;
+}
+img {
+	display: block;
+	margin-top: 10px
+}
